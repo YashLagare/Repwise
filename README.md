@@ -1041,5 +1041,5 @@ npm run start
 - All timestamps must be handled in UTC with timezone awareness (`timestamptz`) and converted to viewer local time only on the client via `components/local-time.tsx`.
 
 ---
-Written by Yash Lagare
+Written by Yash Lagare.
 
