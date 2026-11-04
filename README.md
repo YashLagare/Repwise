@@ -1,5 +1,3 @@
-# Cover Page
-
 **Project Name**: Repwise  
 **Project Description**: Full-Stack Personal Training Marketplace and Coaching Platform  
 **Business Problem Solved**: Eliminates fragmented communication, manual payment reconciliation, and scheduling overhead for fitness trainers and clients by providing a unified portal for program sales, video lessons, 1:1 scheduling, chat, and HD video consultations.  
